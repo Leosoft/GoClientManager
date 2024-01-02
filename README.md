@@ -10,5 +10,4 @@ The `handlers` package contains functions for handling various operations on cus
 
 #### go run main.go
 
-```go
-func Listar()
+
