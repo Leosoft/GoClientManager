@@ -8,7 +8,7 @@ This program provides a console-based interface to manage customer data. It incl
 
 The `handlers` package contains functions for handling various operations on customer data.
 
-#### Function: Listar()
+#### go run main.go
 
 ```go
 func Listar()
